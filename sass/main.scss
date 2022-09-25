@@ -33,8 +33,8 @@ body {
     background: $dark-color;
     top: 15vmin;
     left: -7vmin;
-    border-radius: 0 0 0 30vmin;
     transform: rotate(58deg);
+    border-radius: 0 0 0 30vmin;
 
     &::before {
       width: 25vmin;
@@ -42,8 +42,8 @@ body {
       background: $bg-color;
       top: -2vmin;
       left: 24.8vmin;
-      border-radius: 0 0 0 20vmin;
       transform: rotate(16deg);
+      border-radius: 0 0 0 20vmin;
     }
   }
 
@@ -53,8 +53,8 @@ body {
     background: $dark-color;
     top: 33.8vmin;
     left: 4vmin;
-    border-radius: 0 0 0 20vmin;
     transform: rotate(81deg);
+    border-radius: 0 0 0 20vmin;
 
     &::before {
       width: 15vmin;
@@ -71,8 +71,8 @@ body {
       background: $dark-color;
       top: -16.5vmin;
       left: -21.7vmin;
-      border-radius: 20vmin 0 0 0;
       transform: rotate(78deg);
+      border-radius: 20vmin 0 0 0;
     }
   }
 
@@ -82,8 +82,8 @@ body {
     background: $dark-color;
     top: -38vmin;
     left: 6.1vmin;
-    border-radius: 18vmin 0 0 28vmin;
     transform: rotate(77deg);
+    border-radius: 18vmin 0 0 28vmin;
 
     &::before {
       width: 30vmin;
@@ -91,8 +91,8 @@ body {
       background: $dark-color;
       top: -3vmin;
       left: 1.2vmin;
-      border-radius: 20vmin 20vmin 0 0;
       transform: rotate(11deg);
+      border-radius: 20vmin 20vmin 0 0;
     }
 
     &::after {
@@ -101,8 +101,8 @@ body {
       background: $dark-color;
       top: -3vmin;
       left: 3vmin;
-      border-radius: 18vmin 0 28vmin 5vmin;
       transform: rotate(11deg);
+      border-radius: 18vmin 0 28vmin 5vmin;
     }
   }
 
@@ -112,8 +112,8 @@ body {
     background: $bg-color;
     top: -33.8vmin;
     left: -10.2vmin;
-    border-radius: 14vmin 0 0 30vmin;
     transform: rotate(59deg);
+    border-radius: 14vmin 0 0 30vmin;
 
     &::before {
       width: 12vmin;
@@ -149,8 +149,8 @@ body {
     background: $dark-color;
     top: -31.5vmin;
     left: -8.6vmin;
-    border-radius: 70% 0 0 1000%;
     transform: rotate(54deg);
+    border-radius: 70% 0 0 1000%;
 
     &::before {
       width: 12vmin;
@@ -158,8 +158,8 @@ body {
       background: $dark-color;
       top: 3.2vmin;
       left: 6.2vmin;
-      border-radius: 0 0 0 10vmin;
       transform: rotate(-3deg);
+      border-radius: 0 0 0 10vmin;
     }
 
     &::after {
@@ -168,8 +168,8 @@ body {
       background: $dark-color;
       top: -0.5vmin;
       left: 7vmin;
-      border-radius: 0 0 0 50%;
       transform: rotate(-55deg);
+      border-radius: 0 0 0 50%;
     }
   }
 
@@ -179,8 +179,8 @@ body {
     background: $dark-color;
     top: -38.8vmin;
     left: 1vmin;
-    border-radius: 2vmin 0 0 0;
     transform: rotate(48deg);
+    border-radius: 2vmin 0 0 0;
 
     &::before {
       width: 6vmin;
@@ -205,8 +205,8 @@ body {
     background: $bg-color;
     top: -30vmin;
     left: 22vmin;
-    border-radius: 0 100% 0 0;
     transform: rotate(75deg);
+    border-radius: 0 100% 0 0;
 
     &::before {
       width: 16vmin;
@@ -214,8 +214,8 @@ body {
       background: $dark-color;
       top: 1.6vmin;
       left: 11.4vmin;
-      border-radius: 0 100% 0 0;
       transform: rotate(-3deg) skewX(30deg);
+      border-radius: 0 100% 0 0;
     }
 
     &::after {
@@ -223,8 +223,8 @@ body {
       height: 10vmin;
       background: $dark-color;
       left: 4vmin;
-      border-radius: 0 100% 0 0;
       transform: rotate(-26deg) skewX(20deg);
+      border-radius: 0 100% 0 0;
     }
   }
 
@@ -234,8 +234,8 @@ body {
     background: $dark-color;
     top: -45.5vmin;
     left: 14.2vmin;
-    border-radius: 0 100% 0 0;
     transform: rotate(58deg);
+    border-radius: 0 100% 0 0;
 
     &::before {
       width: 1.5vmin;
@@ -289,9 +289,9 @@ body {
     background: $dark-color;
     top: -20vmin;
     left: 22.5vmin;
+    transform: rotate(66deg) skewX(-10deg);
     border-top: 0.4vmin solid $bg-color;
     border-radius: 0 100% 0 0;
-    transform: rotate(66deg) skewX(-10deg);
 
     &::before {
       width: 2.5vmin;
@@ -318,9 +318,9 @@ body {
     background: $dark-color;
     top: 1.4vmin;
     left: 3.9vmin;
+    transform: rotate(41deg);
     border-bottom: 0.4vmin solid $bg-color;
     border-radius: 50%;
-    transform: rotate(41deg);
 
     &::before {
       width: 1.5vmin;
@@ -346,9 +346,9 @@ body {
     background: transparent;
     top: 9.7vmin;
     left: 9vmin;
+    transform: rotate(-12deg) skewX(5deg);
     border-bottom: 0.4vmin solid $bg-color;
     border-radius: 50%;
-    transform: rotate(-12deg) skewX(5deg);
   }
 }
 
@@ -367,8 +367,8 @@ body {
       background: $bg-color;
       top: 0.15vmin;
       left: -1.6vmin;
-      border-radius: 100% 0.3vmin 0 0;
       transform: rotate(-5deg);
+      border-radius: 100% 0.3vmin 0 0;
     }
   }
 
@@ -378,8 +378,8 @@ body {
     background: $dark-color;
     top: -44.1vmin;
     left: -8.6vmin;
-    border-radius: 35%;
     transform: rotate(-25deg);
+    border-radius: 35%;
 
     &::before {
       width: 6.5vmin;
@@ -404,8 +404,8 @@ body {
     background: $bg-color;
     top: -38.2vmin;
     left: -11.7vmin;
-    border-radius: 30% 0 0 0;
     transform: rotate(3deg);
+    border-radius: 30% 0 0 0;
 
     &::before {
       width: 8vmin;
@@ -447,8 +447,8 @@ body {
       background: $bg-color;
       top: 10.3vmin;
       left: -4.9vmin;
-      border-radius: 0 0 1.2vmin 1vmin;
       transform: rotate(-17deg) skewX(-16deg);
+      border-radius: 0 0 1.2vmin 1vmin;
     }
   }
 
@@ -458,8 +458,8 @@ body {
     background: $bg-color;
     top: 2.4vmin;
     left: 10.4vmin;
-    border-radius: 0 0 0.1vmin 0;
     transform: rotate(-26deg);
+    border-radius: 0 0 0.1vmin 0;
 
     &::before {
       width: 7vmin;
@@ -486,8 +486,8 @@ body {
     background: $bg-color;
     top: -31.2vmin;
     left: -12.9vmin;
-    border-radius: 0.3vmin 0 0 0;
     transform: skewX(7deg);
+    border-radius: 0.3vmin 0 0 0;
 
     &::before {
       width: 3vmin;
@@ -495,8 +495,8 @@ body {
       background: $bg-color;
       top: 1vmin;
       left: 0.2vmin;
-      border-radius: 0.3vmin 0 0 0;
       transform: rotate(-7deg) skewX(4deg);
+      border-radius: 0.3vmin 0 0 0;
     }
 
     &::after {
@@ -515,8 +515,8 @@ body {
     background: $bg-color;
     top: -15.6vmin;
     left: -3.5vmin;
-    border-radius: 45%;
     transform: rotate(-20deg);
+    border-radius: 45%;
 
     &::before {
       width: 4vmin;
@@ -544,8 +544,8 @@ body {
     background: $dark-color;
     top: -30.4vmin;
     left: -13vmin;
-    border-radius: 0 100% 0 0;
     transform: rotate(10deg);
+    border-radius: 0 100% 0 0;
 
     &::before {
       width: 1.7vmin;
@@ -562,8 +562,8 @@ body {
       background: $dark-color;
       top: 0.25vmin;
       left: 0.2vmin;
-      border-radius: 0 100% 0 0;
       transform: skewX(30deg);
+      border-radius: 0 100% 0 0;
     }
   }
 
@@ -574,8 +574,8 @@ body {
     background: $bg-color;
     top: -29.6vmin;
     left: -13.5vmin;
-    border-radius: 0 100% 0 0;
     transform: rotate(10deg) skewX(15deg);
+    border-radius: 0 100% 0 0;
 
     &::before {
       width: 1.2vmin;
@@ -590,8 +590,8 @@ body {
       background: $bg-color;
       top: 0.1vmin;
       left: -0.08vmin;
-      border-radius: 0 100% 0 0;
       transform: rotate(-10deg);
+      border-radius: 0 100% 0 0;
     }
   }
 }
@@ -603,9 +603,9 @@ body {
     background: transparent;
     top: -25.2vmin;
     left: -9.5vmin;
+    transform: rotate(35deg);
     border-top: 0.1vmin solid $dark-color;
     border-radius: 50%;
-    transform: rotate(35deg);
 
     &::before {
       width: 4.3vmin;
@@ -613,8 +613,8 @@ body {
       background: $dark-color;
       top: 0.5vmin;
       left: -0.6vmin;
-      border-radius: 0 1.5vmin 0 0;
       transform: rotate(-20deg);
+      border-radius: 0 1.5vmin 0 0;
     }
 
     &::after {
@@ -633,8 +633,8 @@ body {
     background: $bg-color;
     top: -23.2vmin;
     left: -10.2vmin;
-    border-radius: 0 1.5vmin 1vmin 2.5vmin;
     transform: rotate(20deg);
+    border-radius: 0 1.5vmin 1vmin 2.5vmin;
 
     &::before {
       width: 1.6vmin;
@@ -642,8 +642,8 @@ body {
       background: $bg-color;
       top: -0.4vmin;
       left: 0.14vmin;
-      border-radius: 0 0 0 1vmin;
       transform: rotate(-20deg);
+      border-radius: 0 0 0 1vmin;
     }
 
     &::after {
@@ -652,8 +652,8 @@ body {
       background: $dark-color;
       top: -0.7vmin;
       left: 1vmin;
-      border-radius: 50% 0 0 50%;
       transform: rotate(-20deg);
+      border-radius: 50% 0 0 50%;
     }
   }
 
@@ -670,8 +670,8 @@ body {
       background: $bg-color;
       top: 0.5vmin;
       left: 1.05vmin;
-      border-radius: 0 100% 0 0;
       transform: rotate(42deg);
+      border-radius: 0 100% 0 0;
     }
   }
 }
@@ -691,8 +691,8 @@ body {
       background: $bg-color;
       top: 0.9vmin;
       left: -0.2vmin;
-      border-radius: 100% 0 0 0;
       transform: rotate(-10deg);
+      border-radius: 100% 0 0 0;
     }
 
     &::after {
@@ -701,8 +701,8 @@ body {
       background: $dark-color;
       top: 0.2vmin;
       left: 0.4vmin;
-      border-radius: 100% 0 0 0;
       transform: skewX(-15deg) rotate(0deg);
+      border-radius: 100% 0 0 0;
     }
   }
 
@@ -720,8 +720,8 @@ body {
       height: 0.75vmin;
       background: $dark-color;
       left: 0.3vmin;
-      border-radius: 100% 0 0 0;
       transform: skewX(-5deg);
+      border-radius: 100% 0 0 0;
     }
 
     &::after {
@@ -729,8 +729,8 @@ body {
       height: 0.75vmin;
       background: $bg-color;
       top: 0.05vmin;
-      border-radius: 100% 0 0 0;
       transform: skewX(30deg) rotate(-1deg);
+      border-radius: 100% 0 0 0;
     }
   }
 }
@@ -742,16 +742,16 @@ body {
     background: transparent;
     top: -25.8vmin;
     left: 6.1vmin;
-    border-top: 0.1vmin solid $dark-color;
     border-radius: 50%;
+    border-top: 0.1vmin solid $dark-color;
 
     &::before {
       width: 4vmin;
       height: 1.9vmin;
       background: $dark-color;
       top: 0.4vmin;
-      border-radius: 50%;
       transform: rotate(-7deg);
+      border-radius: 50%;
     }
 
     &::after {
@@ -760,8 +760,8 @@ body {
       background: $bg-color;
       top: 1.4vmin;
       left: 0.5vmin;
-      border-radius: 50%;
       transform: rotate(-10deg);
+      border-radius: 50%;
     }
   }
 
@@ -772,8 +772,8 @@ body {
     background: $bg-color;
     top: -24.2vmin;
     left: 4.7vmin;
-    border-radius: 0.8vmin 0 0 0;
     transform: rotate(-16deg) skewX(15deg);
+    border-radius: 0.8vmin 0 0 0;
 
     &::before {
       width: 1.1vmin;
@@ -781,8 +781,8 @@ body {
       background: $dark-color;
       top: -0.1vmin;
       left: 1.1vmin;
-      border-radius: 50%;
       transform: skewX(-10deg);
+      border-radius: 50%;
     }
   }
 
@@ -793,8 +793,8 @@ body {
     background: $dark-color;
     top: -23.7vmin;
     left: 2.25vmin;
-    border-radius: 100%;
     transform: rotate(-45deg);
+    border-radius: 100%;
 
     &::before {
       width: 0.6vmin;
@@ -823,9 +823,9 @@ body {
     background: transparent;
     top: -23vmin;
     left: -7.7vmin;
+    transform: rotate(78deg);
     border-top: 0.19vmin solid $dark-color;
     border-radius: 50%;
-    transform: rotate(78deg);
 
     &::before {
       width: 3.5vmin;
@@ -833,9 +833,9 @@ body {
       background: transparent;
       top: 0.72vmin;
       left: 3.5vmin;
+      transform: rotate(28deg);
       border-top: 0.19vmin solid $dark-color;
       border-radius: 0.25vmin 0 0 0;
-      transform: rotate(28deg);
     }
 
     &::after {
@@ -844,9 +844,9 @@ body {
       background: transparent;
       top: 0.5vmin;
       left: 6.9vmin;
+      transform: rotate(-14deg);
       border-bottom: 0.19vmin solid $dark-color;
       border-radius: 50%;
-      transform: rotate(-14deg);
     }
   }
 
@@ -856,9 +856,9 @@ body {
     background: transparent;
     top: -12.4vmin;
     left: -7.2vmin;
-    border-radius: 50%;
-    border-bottom: 0.19vmin solid $dark-color;
     transform: rotate(68deg);
+    border-bottom: 0.19vmin solid $dark-color;
+    border-radius: 50%;
   }
 
   &-3 {
@@ -867,8 +867,8 @@ body {
     background: $dark-color;
     top: -10.5vmin;
     left: -1.4vmin;
-    border-radius: 100% 0 0 0;
     transform: rotate(78deg);
+    border-radius: 100% 0 0 0;
 
     &::before {
       width: 0.5vmin;
@@ -885,8 +885,8 @@ body {
       background: $bg-color;
       top: 0.5vmin;
       left: 0.4vmin;
-      border-radius: 50%;
       transform: rotate(-10deg);
+      border-radius: 50%;
     }
   }
 
@@ -896,18 +896,18 @@ body {
     background: transparent;
     top: -12.2vmin;
     left: 2vmin;
+    transform: rotate(73deg);
     border-top: 0.19vmin solid $dark-color;
     border-radius: 40%;
-    transform: rotate(73deg);
 
     &::before {
       width: 2.2vmin;
       height: 1vmin;
       background: transparent;
       left: -0.9vmin;
+      transform: rotate(-25deg);
       border-top: 0.18vmin solid $dark-color;
       border-radius: 0.3vmin 0.3vmin 0 0;
-      transform: rotate(-25deg);
     }
 
     &::after {
@@ -916,9 +916,9 @@ body {
       background: transparent;
       top: -0.3vmin;
       left: 0.6vmin;
+      transform: rotate(-12deg);
       border-top: 0.18vmin solid $dark-color;
       border-radius: 0.1vmin 0.1vmin 0 0;
-      transform: rotate(-12deg);
     }
   }
 }
@@ -938,8 +938,8 @@ body {
       background: $dark-color;
       top: 0.1vmin;
       left: 0.2vmin;
-      border-radius: 0.5vmin 0 0 0;
       transform: rotate(30deg);
+      border-radius: 0.5vmin 0 0 0;
     }
 
     &::after {
@@ -948,8 +948,8 @@ body {
       background: $dark-color;
       top: 0.2vmin;
       left: 1.3vmin;
-      border-radius: 50%;
       transform: rotate(-10deg);
+      border-radius: 50%;
     }
   }
 
@@ -959,8 +959,8 @@ body {
     background: $dark-color;
     top: -6vmin;
     left: 1.5vmin;
-    border-radius: 50%;
     transform: rotate(8deg);
+    border-radius: 50%;
 
     &::before {
       width: 3vmin;
@@ -968,8 +968,8 @@ body {
       background: $dark-color;
       top: 1vmin;
       left: -2vmin;
-      border-radius: 0 0 0 2vmin;
       transform: rotate(3deg);
+      border-radius: 0 0 0 2vmin;
     }
   }
 
@@ -979,8 +979,8 @@ body {
     background: $dark-color;
     top: -2.3vmin;
     left: 2.9vmin;
-    border-radius: 0 0 2vmin 0.4vmin;
     transform: rotate(-4deg);
+    border-radius: 0 0 2vmin 0.4vmin;
 
     &::before {
       width: 1.1vmin;
@@ -1006,8 +1006,8 @@ body {
     background: $bg-color;
     top: -3.4vmin;
     left: -1.5vmin;
-    border-radius: 0 0 0.2vmin 0.3vmin;
     transform: skewY(10deg);
+    border-radius: 0 0 0.2vmin 0.3vmin;
 
     &::before {
       width: 0.5vmin;
@@ -1024,8 +1024,8 @@ body {
       background: $bg-color;
       top: -0.5vmin;
       left: 2.2vmin;
-      border-radius: 0 0 1vmin 0.4vmin;
       transform: skewY(-15deg);
+      border-radius: 0 0 1vmin 0.4vmin;
     }
   }
 
@@ -1035,8 +1035,8 @@ body {
     background: $bg-color;
     top: -4.5vmin;
     left: 4.8vmin;
-    border-radius: 0 0 1.2vmin 0.4vmin;
     transform: rotate(-5deg);
+    border-radius: 0 0 1.2vmin 0.4vmin;
 
     &::before {
       width: 2.2vmin;
@@ -1063,8 +1063,8 @@ body {
     background: $bg-color;
     top: -1.1vmin;
     left: -0.2vmin;
-    border-radius: 0 0 0.8vmin 2.8vmin;
     transform: rotate(-5deg);
+    border-radius: 0 0 0.8vmin 2.8vmin;
 
     &::before {
       width: 2.4vmin;
@@ -1072,8 +1072,8 @@ body {
       background: $bg-color;
       top: -0.35vmin;
       left: 2.2vmin;
-      border-radius: 0 0 2.8vmin 1.3vmin;
       transform: rotate(-20deg);
+      border-radius: 0 0 2.8vmin 1.3vmin;
     }
 
     &::after {
@@ -1100,8 +1100,8 @@ body {
       background: $bg-color;
       top: 0.5vmin;
       left: 4.9vmin;
-      border-radius: 0 0 50% 0;
       transform: rotate(-15deg);
+      border-radius: 0 0 50% 0;
     }
   }
 }
