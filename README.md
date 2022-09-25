@@ -1,6 +1,6 @@
-# PureCSS - Responsive Hijab Girl Portrait
+# PureCSS - Hijab Girl
 
-Responsive Responsive Hijab Girl Portrait using HTML and CSS
+Responsive Responsive Hijab Girl using HTML and CSS
 
 [Design Source](https://dribbble.com/shots/5950905-Veil-Logo)
 
