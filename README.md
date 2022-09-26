@@ -1,6 +1,6 @@
-# PureCSS - Hijab Girl
+# PureCSS - Woman Wearing Hijab
 
-Responsive Responsive Hijab Girl using HTML and CSS
+Responsive Responsive Woman Wearing Hijab using HTML and CSS
 
 [Design Source](https://dribbble.com/shots/5950905-Veil-Logo)
 
